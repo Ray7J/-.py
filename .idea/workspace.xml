@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b83f67a-1a6d-45df-9fe0-af2efafb9643" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/top250.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/1.肖申克的救赎 9.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/10.忠犬八公的故事 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/100.喜剧之王 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/101.消失的爱人 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/102.告白 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/103.大鱼 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/104.一一 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/105.小森林 夏秋篇 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/106.阳光姐妹淘 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/107.爱在黎明破晓前 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/108.射雕英雄传之东成西就 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/109.请以你的名字呼唤我 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/11.机器人总动员 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/110.甜蜜蜜 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/111.侧耳倾听 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/112.红辣椒 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/113.驯龙高手 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/114.倩女幽魂 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/115.超脱 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/116.恐怖直播 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/117.菊次郎的夏天 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/118.风之谷 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/119.爱在日落黄昏时 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/12.三傻大闹宝莱坞 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/120.小森林 冬春篇 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/121.杀人回忆 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/122.哈利·波特与死亡圣器(下) 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/123.7号房的礼物 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/124.幸福终点站 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/125.上帝之城 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/126.蝙蝠侠：黑暗骑士崛起 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/127.海蒂和爷爷 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/128.借东西的小人阿莉埃蒂 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/129.萤火之森 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/13.放牛班的春天 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/130.超能陆战队 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/131.唐伯虎点秋香 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/132.神偷奶爸 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/133.无人知晓 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/134.怪兽电力公司 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/135.岁月神偷 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/136.电锯惊魂 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/137.玩具总动员3 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/138.谍影重重3 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/139.七武士 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/14.海上钢琴师 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/140.疯狂原始人 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/141.血战钢锯岭 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/142.喜宴 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/143.英雄本色 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/144.真爱至上 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/145.东邪西毒 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/146.萤火虫之墓 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/147.傲慢与偏见 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/148.贫民窟的百万富翁 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/149.时空恋旅人 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/15.楚门的世界 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/150.黑天鹅 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/151.记忆碎片 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/152.心迷宫 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/153.纵横四海 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/154.教父3 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/155.荒蛮故事 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/156.完美的世界 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/157.我不是药神 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/158.达拉斯买家俱乐部 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/159.雨人 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/16.大话西游之大圣娶亲 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/160.花样年华 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/161.三块广告牌 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/162.被解救的姜戈 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/163.卢旺达饭店 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/164.海边的曼彻斯特 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/165.你的名字。 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/166.头脑特工队 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/167.你看起来好像很好吃 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/168.恋恋笔记本 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/169.我是山姆 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/17.星际穿越 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/170.无敌破坏王 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/171.虎口脱险 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/172.冰川时代 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/173.二十二 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/174.海洋 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/175.雨中曲 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/176.爆裂鼓手 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/177.未麻的部屋 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/178.模仿游戏 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/179.一个叫欧维的男人决定去死 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/18.龙猫 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/180.燃情岁月 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/181.人工智能 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/182.忠犬八公物语 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/183.哪吒闹海 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/184.穿越时空的少女 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/185.房间 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/186.魔女宅急便 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/187.魂断蓝桥 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/188.恐怖游轮 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/189.海街日记 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/19.教父 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/190.猜火车 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/191.黑客帝国3：矩阵革命 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/192.天书奇谭 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/193.完美陌生人 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/194.罗生门 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/195.阿飞正传 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/196.香水 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/197.朗读者 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/198.可可西里 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/199.浪潮 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/2.霸王别姬 9.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/20.熔炉 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/200.谍影重重2 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/201.谍影重重 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/202.牯岭街少年杀人事件 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/203.战争之王 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/204.地球上的星星 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/205.疯狂的石头 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/206.功夫 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/207.惊魂记 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/208.初恋这件小事 8.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/209.青蛇 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/21.无间道 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/210.头号玩家 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/211.终结者2：审判日 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/212.源代码 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/213.步履不停 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/214.爱在午夜降临前 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/215.新龙门客栈 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/216.小萝莉的猴神大叔 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/217.一次别离 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/218.追随 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/219.奇迹男孩 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/22.疯狂动物城 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/220.再次出发之纽约遇见你 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/221.无耻混蛋 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/222.撞车 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/223.东京物语 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/224.血钻 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/225.彗星来的那一夜 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/226.城市之光 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/227.2001太空漫游 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/228.梦之安魂曲 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/229.绿里奇迹 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/23.当幸福来敲门 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/230.釜山行 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/231.疯狂的麦克斯4：狂暴之路 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/232.聚焦 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/233.新世界 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/234.E.T. 外星人 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/235.这个男人来自地球 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/236.末路狂花 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/237.黑鹰坠落 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/238.发条橙 8.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/239.变脸 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/24.怦然心动 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/240.遗愿清单 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/241.勇闯夺命岛 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/242.国王的演讲 8.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/243.黄金三镖客 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/244.我爱你 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/245.千钧一发 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/246.非常嫌疑犯 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/247.秒速5厘米 8.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/248.卡萨布兰卡 8.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/249.驴得水 8.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/25.触不可及 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/250.四个春天 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/26.蝙蝠侠：黑暗骑士 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/27.乱世佳人 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/28.活着 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/29.控方证人 9.6分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/3.这个杀手不太冷 9.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/30.少年派的奇幻漂流 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/31.指环王3：王者无敌 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/32.摔跤吧！爸爸 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/33.天空之城 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/34.鬼子来了 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/35.天堂电影院 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/36.十二怒汉 9.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/37.飞屋环游记 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/38.大话西游之月光宝盒 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/39.哈尔的移动城堡 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/4.阿甘正传 9.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/40.搏击俱乐部 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/41.罗马假日 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/42.末代皇帝 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/43.闻香识女人 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/44.寻梦环游记 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/45.辩护人 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/46.窃听风暴 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/47.素媛 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/48.死亡诗社 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/49.两杆大烟枪 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/5.美丽人生 9.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/50.飞越疯人院 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/51.指环王2：双塔奇兵 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/52.教父2 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/53.指环王1：魔戒再现 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/54.V字仇杀队 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/55.狮子王 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/56.美丽心灵 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/57.饮食男女 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/58.海豚湾 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/59.情书 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/6.千与千寻 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/60.钢琴家 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/61.本杰明·巴顿奇事 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/62.看不见的客人 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/63.大闹天宫 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/64.哈利·波特与魔法石 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/65.黑客帝国 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/66.小鞋子 9.2分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/67.西西里的美丽传说 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/68.美国往事 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/69.何以为家 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/7.泰坦尼克号 9.4分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/70.拯救大兵瑞恩 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/71.让子弹飞 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/72.音乐之声 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/73.致命魔术 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/74.七宗罪 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/75.猫鼠游戏 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/76.被嫌弃的松子的一生 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/77.低俗小说 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/78.沉默的羔羊 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/79.蝴蝶效应 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/8.辛德勒的名单 9.5分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/80.春光乍泄 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/81.天使爱美丽 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/82.勇敢的心 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/83.剪刀手爱德华 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/84.穿条纹睡衣的男孩 9.0分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/85.心灵捕手 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/86.禁闭岛 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/87.布达佩斯大饭店 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/88.阿凡达 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/89.入殓师 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/9.盗梦空间 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/90.幽灵公主 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/91.加勒比海盗 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/92.致命ID 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/93.摩登时代 9.3分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/94.阳光灿烂的日子 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/95.断背山 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/96.第六感 8.8分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/97.重庆森林 8.7分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/98.狩猎 9.1分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/99.玛丽和马克思 8.9分.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/豆瓣top250.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/豆瓣top250.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/豆瓣top250.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="370" />
+    <option name="y" value="130" />
+    <option name="width" value="1165" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="top250" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\Python\top250" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="top250" type="b2602c69:ProjectViewProjectNode" />
+              <item name="top250" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="豆瓣top250" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="top250" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/豆瓣top250.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.豆瓣top250" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b83f67a-1a6d-45df-9fe0-af2efafb9643" name="Default Changelist" comment="" />
+      <created>1564567075470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564567075470</updated>
+      <workItem from="1564567076722" duration="76000" />
+      <workItem from="1564567154242" duration="59000" />
+      <workItem from="1564567214100" duration="793000" />
+      <workItem from="1564568120581" duration="2705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3633000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/top250$top250.coverage" NAME="豆瓣top250 Coverage Results" MODIFIED="1564569944571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../淘宝爬虫/豆瓣250.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python/Lib/shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1547">
+          <caret line="450" column="17" selection-start-line="450" selection-start-column="17" selection-end-line="450" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/豆瓣top250.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
